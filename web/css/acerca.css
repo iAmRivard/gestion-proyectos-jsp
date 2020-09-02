@@ -1,0 +1,16 @@
+        body{
+    
+    background-image: url("../img/fondo_acerca.jpg");
+    background-attachment: fixed;
+    background-size:cover;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+            
+            .abs-center {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}

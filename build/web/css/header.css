@@ -1,0 +1,25 @@
+
+            
+        .header-navigation {
+  
+    background-color:#fff;
+    
+    border:1px solid #e1e8ed;
+    border-bottom:1px solid #C1C7CC;
+    color:#4090D6;
+    
+}
+
+.navigation {
+    width:900px;
+    margin-left:auto;
+    margin-right:15px;
+    margin-top:15px;
+    font-size:19px;
+    height:40px;
+    
+}
+
+.navigation p{
+    float:right;
+}

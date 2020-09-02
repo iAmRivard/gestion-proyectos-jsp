@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/poo_catedra_web">
+ <Logger className="org.apache.catalina.logger.FileLogger" prefix="localhost_." suffix=".txt"
+timestamp="true"/>
+ <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" name="jdbc/mysql"
+password="" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/poo_catedra"
+username="root"/>
+<context-param><param-name>javax.servlet.jsp.jstl.fmt.localizationContext</param-name><param-value>AplicationResource</param-value></context-param>
+</Context>
